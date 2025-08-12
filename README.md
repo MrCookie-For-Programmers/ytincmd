@@ -1,4 +1,7 @@
 #IMPORTANT NOTE: MACOS AND WINDOWS ARENT TESTED
+
+
+
 make sure the requirements.txt has the correct name for each os in the command btw
 
 
