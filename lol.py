@@ -7,7 +7,7 @@ import time
 import subprocess
 import threading
 import sys
-
+# i gotta add a comment to commit changes, ignore this
 # Initializing colorama for colorful console output
 init(autoreset=True)
 
