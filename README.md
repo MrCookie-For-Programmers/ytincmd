@@ -1,6 +1,6 @@
-#IMPORTANT NOTE: MACOS AND WINDOWS ARENT TESTED
+# IMPORTANT NOTE: MACOS ISNT TESTED
 
-
+oh ye btw dependencies on windows suck, good luck
 
 make sure the requirements.txt has the correct name for each os in the command btw
 
